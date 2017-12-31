@@ -44,6 +44,7 @@ public class SubsequenceSum {
 		int[] arr = new int[] {-2,11,-4,13,-5,-2,5,34,-33,24,22,-5,-56,23,55};
 		int maxSeqSum = maxSubSuml(arr);
 		System.out.println(maxSeqSum);
+		System.out.println();
 	}
 
 }

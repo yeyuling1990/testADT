@@ -1,4 +1,4 @@
-package testADT;
+package com.zhang.test.ADT;
 
 public class SubsequenceSum {
 
